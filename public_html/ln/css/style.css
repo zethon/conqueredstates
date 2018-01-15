@@ -1,0 +1,26 @@
+
+
+
+.normal_bold_text { font-family: Verdana, Tahoma, Arial, Helvetica, Sans-Serif; font-size: 30px; font-weight: bold; font-size:12px}
+.title_text { font-family: Verdana, Tahoma, Arial, Helvetica, Sans-Serif; font-size: 30px; font-weight: bold; }
+/*
+.left_menu_text { color:#55B455 font-family: Verdana, Tahoma, Arial, Helvetica, Sans-Serif; font-size: 30px; font-weight: bold; }
+*/
+
+a.welcome:link  	{font-family: Sans-Serif, Verdana, Tahoma, Arial, Helvetica; color:#90EE90; text-decoration: none; }
+a.welcome:visited {font-family: Sans-Serif, Verdana, Tahoma, Arial, Helvetica; color:#90EE90; text-decoration: none; }
+a.welcome:active  {font-family: Sans-Serif, Verdana, Tahoma, Arial, Helvetica; color:#90EE90; text-decoration: none; }
+a.welcome:hover 	{font-family: Sans-Serif, Verdana, Tahoma, Arial, Helvetica; color:#FFFFFF; text-decoration: underline;}
+
+
+/* Style spec's for tooltip  */
+div#tipDiv 
+{
+  font-family: verdana, Tahoma, Arial, Helvetica, sans-serif;
+  position:absolute; visibility:hidden; left:0; top:0; z-index:10000;
+  background-color:#dee7f7; border:1px solid #336; 
+  padding:6px;
+  color:#000; font-size:11px; line-height:1.3;
+}
+div#tipDiv a:link { color:#33b }
+div#tipDiv a:visited { color:#339 }

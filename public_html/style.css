@@ -1,0 +1,20 @@
+.title_text { font-family: Verdana, Tahoma, Arial, Helvetica, Sans-Serif; font-size: 30px; font-weight: bold; }
+/*
+.left_menu_text { color:#55B455 font-family: Verdana, Tahoma, Arial, Helvetica, Sans-Serif; font-size: 30px; font-weight: bold; }
+*/
+
+a.welcome:link  	{font-size:14px; font-family: Sans-Serif, Verdana, Tahoma, Arial, Helvetica; color:#90EE90; text-decoration: none; }
+a.welcome:visited {font-size:14px; font-family: Sans-Serif, Verdana, Tahoma, Arial, Helvetica; color:#90EE90; text-decoration: none; }
+a.welcome:active  {font-size:14px; font-family: Sans-Serif, Verdana, Tahoma, Arial, Helvetica; color:#90EE90; text-decoration: none; }
+a.welcome:hover 	{font-size:14px; font-family: Sans-Serif, Verdana, Tahoma, Arial, Helvetica; color:#FFFFFF; text-decoration: underline;}
+
+.box_header 	{ font-size:14px; font-family: Sans-Serif, Verdana, Tahoma, Arial, Helvetica; font-weight: bold; color:#000000; background-color: #FFFFFF;}
+.box_content1	{ font-size:14px; font-family: Sans-Serif, Verdana, Tahoma, Arial, Helvetica; color:#FFFFFF; background-color: #00000;}
+.box_content2	{ font-size:14px; font-family: Sans-Serif, Verdana, Tahoma, Arial, Helvetica; color:#FFFFFF; background-color: #7D7D7D;}
+
+.error_text { font-size:14px; font-family: Sans-Serif, Verdana, Tahoma, Arial, Helvetica; color:#FFFFFF; color: #FF0303; font-weight:bold}
+.normal_text{ font-size:14px; font-family: Sans-Serif, Verdana, Tahoma, Arial, Helvetica; color:#FFFFFF; color: #FFFFFF; }
+.small_text{ font-size:12px; font-family: Sans-Serif, Verdana, Tahoma, Arial, Helvetica; color:#FFFFFF; color: #FFFFFF; }
+
+.submit_button { font-size:14px; font-family: Sans-Serif, Verdana, Tahoma, Arial, Helvetica; color:#000000; BORDER-RIGHT: white thin solid; BORDER-TOP: white thin solid; BORDER-LEFT: white thin solid; BORDER-BOTTOM: white thin solid; BACKGROUND-COLOR: silver }
+.text_input { font-size:12px; font-family: Sans-Serif, Verdana, Tahoma, Arial, Helvetica; WIDTH: 100px; COLOR: white; HEIGHT: 22px; BACKGROUND-COLOR: black }

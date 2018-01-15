@@ -1,0 +1,104 @@
+body 
+{
+	font: 13px verdana,helvetica,arial,sans-serif;
+	padding: 1% 1%;
+	background-color: #DEE7F7;
+	color: #333333;
+}
+
+input,select,textarea 
+{
+	font: 12px verdana,helvetica,arial,sans-serif;
+	background-color: #EBF1FA;
+	color: #222222;
+}
+
+input:focus, 
+select:focus, 
+textarea:focus 
+{
+	font: 12px verdana,helvetica,arial,sans-serif;
+	background-color: #ffffff;
+}
+
+
+/*
+input[type=submit], 
+input[type=reset], 
+input[type=button],
+input[type=file],
+button {
+	background-color: #B2B9C6;
+	color: #000000;
+}*/
+
+
+/*img:hover 
+{
+	border-color: #FFFFFF;
+}*/
+
+/* CUSTOM  */
+a.menuitem
+{
+	font: 12px verdana,helvetica,arial,sans-serif;
+	color: #000000;
+	font-variant: small-caps;
+	font-weight: bold
+}
+
+.gridbg1 
+{ 
+	font: 12px verdana,helvetica,arial,sans-serif;
+	color: #333333;
+	background-color: #DEE7F7;
+}
+
+.gridbg2 
+{ 
+	font: 12px verdana,helvetica,arial,sans-serif;
+	color: #333333;
+	background-color: #ACB5C5;
+}
+
+.highlight
+{
+	font: 14px verdana,helvetica,arial,sans-serif;
+	color: #333333;
+	background-color: #D0D040;
+	text-transform: capitalize;
+}
+
+.banner_text
+{
+	font: 60px verdana,helvetica,arial,sans-serif;
+	color: #333333;
+	font-variant: small-caps;
+}
+
+.nation_banner_text
+{
+	font: 32px verdana,helvetica,arial,sans-serif;
+	color: #333333;
+	font-variant: small-caps;
+}
+.tiny_text
+{
+	font: 10px verdana,helvetica,arial,sans-serif;
+	color: #000000;
+	font-variant: small-caps;
+}
+
+.error_text
+{
+	font: 10px verdana,helvetica,arial,sans-serif;
+	color: #FA0000;
+	font-weight: bold;
+}
+
+.label 
+{ 
+	font: 12px verdana,helvetica,arial,sans-serif;
+	color: #333333;
+	background-color: #DEE7F7;
+}

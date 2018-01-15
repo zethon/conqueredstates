@@ -1,0 +1,52 @@
+-- phpMyAdmin SQL Dump
+-- version 2.6.4-pl2
+-- http://www.phpmyadmin.net
+-- 
+-- Host: localhost
+-- Generation Time: May 26, 2006 at 08:44 PM
+-- Server version: 4.1.18
+-- PHP Version: 4.3.11
+-- 
+-- Database: `quyulvfc_ln`
+-- 
+
+-- --------------------------------------------------------
+
+-- 
+-- Table structure for table `regions`
+-- 
+
+CREATE TABLE `regions` (
+  `region_id` int(11) NOT NULL auto_increment,
+  `name` varchar(100) NOT NULL default '',
+  `population` varchar(100) NOT NULL default '',
+  PRIMARY KEY  (`region_id`)
+) ENGINE=MyISAM DEFAULT CHARSET=latin1 AUTO_INCREMENT=34 ;
+
+-- 
+-- Dumping data for table `regions`
+-- 
+
+INSERT INTO `regions` VALUES (26, 'Australia - Queensland', '19854');
+INSERT INTO `regions` VALUES (25, 'Australia - South Australia', '22500');
+INSERT INTO `regions` VALUES (24, 'Australia - Northern Terrirtory', '15000');
+INSERT INTO `regions` VALUES (23, 'Australia - Western Australia', '19121');
+INSERT INTO `regions` VALUES (22, 'Ireland', '16775');
+INSERT INTO `regions` VALUES (21, 'Sri Lanka', '20561');
+INSERT INTO `regions` VALUES (20, 'Northern Madagascar', '18745');
+INSERT INTO `regions` VALUES (19, 'Southern, Madagascar', '21442');
+INSERT INTO `regions` VALUES (18, 'Antananarivo, Madagasscar', '24648');
+INSERT INTO `regions` VALUES (17, 'Falkland Islands', '18322');
+INSERT INTO `regions` VALUES (16, 'Nova Scotia, Canada', '23826');
+INSERT INTO `regions` VALUES (15, 'Western Yukon', '16054');
+INSERT INTO `regions` VALUES (14, 'Tasmania', '19800');
+INSERT INTO `regions` VALUES (13, 'Iceland', '20144');
+INSERT INTO `regions` VALUES (12, 'Juneau, Alaska', '20912');
+INSERT INTO `regions` VALUES (11, 'Barrow & Northern Slope, Alaska', '19483');
+INSERT INTO `regions` VALUES (5, 'Unalaska, Alaska', '18756');
+INSERT INTO `regions` VALUES (3, 'Hooper Bay, Alaska', '15822');
+INSERT INTO `regions` VALUES (4, 'Fairbanks & Eastern Interior, Alaska', '16734');
+INSERT INTO `regions` VALUES (2, 'Nome, Alaska', '22000');
+INSERT INTO `regions` VALUES (1, 'Anchorage, Alaska', '23152');
+INSERT INTO `regions` VALUES (27, 'New South Wales & Victoria', '20241');
+INSERT INTO `regions` VALUES (33, 'eeee', '23234');
