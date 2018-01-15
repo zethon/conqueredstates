@@ -8,3 +8,9 @@ The game was in developement throughout 2006 and was taken offline before most o
 ## Design
 
 Most of the game is implemented in PHP with a MySQL database. 
+
+## The End
+
+Because of personal reasons, the game was never completed. 
+
+The code is presented here for archival purposes.
